@@ -1,0 +1,226 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "050ecef29d463113abf006f9b1d9c628562e6755"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CVNAPDF417/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.18",
+          "AWSSDK.Rekognition": "3.3.100.54",
+          "SixLabors.ImageSharp": "1.0.0-beta0006",
+          "ZXing.Net": "0.16.4",
+          "ZXing.Net.Bindings.CoreCompat.System.Drawing": "0.16.5-beta"
+        },
+        "runtime": {
+          "CVNAPDF417.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.18": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.18"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.3.100.54": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.18"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.54"
+          }
+        }
+      },
+      "CoreCompat.System.Drawing.v2/5.2.0-preview1-r131": {
+        "dependencies": {
+          "System.Security.Permissions": "4.4.0-preview1-25305-02"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CoreCompat.System.Drawing.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Core/1.0.0-beta0007": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/1.0.0-beta0006": {
+        "dependencies": {
+          "SixLabors.Core": "1.0.0-beta0007",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.4.0-preview1-25305-02": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "4.4.0-preview1-25305-02"
+        },
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Security.Permissions/4.4.0-preview1-25305-02": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.4.0-preview1-25305-02"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.25305.2"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.4.0-preview1-25305-02": {
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "ZXing.Net/0.16.4": {
+        "runtime": {
+          "lib/netstandard2.0/zxing.dll": {
+            "assemblyVersion": "0.16.4.0",
+            "fileVersion": "0.16.4.0"
+          }
+        }
+      },
+      "ZXing.Net.Bindings.CoreCompat.System.Drawing/0.16.5-beta": {
+        "dependencies": {
+          "CoreCompat.System.Drawing.v2": "5.2.0-preview1-r131",
+          "ZXing.Net": "0.16.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZXing.CoreCompat.System.Drawing.v2.dll": {
+            "assemblyVersion": "0.16.5.0",
+            "fileVersion": "0.16.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CVNAPDF417/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PV0TQHmOj5LUlwO7tYOHqIr9kiWMg9PefCPl2hHO0MvldrsnMgWwA2PjEBXcAb4RPATAYl+SgDMUIoPjK4X47A==",
+      "path": "awssdk.core/3.3.103.18",
+      "hashPath": "awssdk.core.3.3.103.18.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.3.100.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B5yg/tYT9bqzzUhLEahqPfbYSnEDCUAznz/+cHZgrxUgdKOlcjWi49bg7RxHsZA+36qTYmgpr2lcf9Zptbg9EQ==",
+      "path": "awssdk.rekognition/3.3.100.54",
+      "hashPath": "awssdk.rekognition.3.3.100.54.nupkg.sha512"
+    },
+    "CoreCompat.System.Drawing.v2/5.2.0-preview1-r131": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+WrScg+skrIiNLBwbl+BFdlSyzUqKOZtAUskW2xfI8vcKQdDJp+UoreUFC9uMSEgSiAR32e5l3fTtFDUKEpRaA==",
+      "path": "corecompat.system.drawing.v2/5.2.0-preview1-r131",
+      "hashPath": "corecompat.system.drawing.v2.5.2.0-preview1-r131.nupkg.sha512"
+    },
+    "SixLabors.Core/1.0.0-beta0007": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s9aPl6yxwcvoKRD0u0zjkCISZCCifbUi9/XVFjdvlx5Pt7vRYmGV0anq1EEftUjIEHbEu5aNBipbUSBIV2CE7w==",
+      "path": "sixlabors.core/1.0.0-beta0007",
+      "hashPath": "sixlabors.core.1.0.0-beta0007.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/1.0.0-beta0006": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VHDX00uAzPWj5qFYE5xJZyr5Cx4Jtd3p2dfX7swSrzlQoPEZPXXwQ+O3Fc4hNWvaNvR1NAiXSb27Ts6yv3lMDw==",
+      "path": "sixlabors.imagesharp/1.0.0-beta0006",
+      "hashPath": "sixlabors.imagesharp.1.0.0-beta0006.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zh8t8oqolRaFa9vmOZfdQm/qKejdqz0J9kr7o2Fu0vPeoH3BL1EOXipKWwkWtLT1JPzjByrF19fGuFlNbmPpiw==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.4.0-preview1-25305-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3acs1/hAThiFxLFwfS0XXEOk/qw9+Wf2He4y0hj8ZQ7wQZum4/q7nv+zHUA/MigdYChM94qTArnUWkXdcFNkw==",
+      "path": "system.security.accesscontrol/4.4.0-preview1-25305-02",
+      "hashPath": "system.security.accesscontrol.4.4.0-preview1-25305-02.nupkg.sha512"
+    },
+    "System.Security.Permissions/4.4.0-preview1-25305-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W4+sOQhP/hijYNMx/TQK2zXP1+8a9WYAvuMQS4XBe+Phfv8fqc4h+U/fzkWC5BuNN0InNY46F5WT1bbOyObQdg==",
+      "path": "system.security.permissions/4.4.0-preview1-25305-02",
+      "hashPath": "system.security.permissions.4.4.0-preview1-25305-02.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.4.0-preview1-25305-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i/87uUlutjoXKIGEgjAh6tzpFtwhBZxMqX+ZW38UoJqHxaW0+cglUovfEfPRJeEYFhck9SqJqJnEqsVvAgu6oQ==",
+      "path": "system.security.principal.windows/4.4.0-preview1-25305-02",
+      "hashPath": "system.security.principal.windows.4.4.0-preview1-25305-02.nupkg.sha512"
+    },
+    "ZXing.Net/0.16.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9Qaq+ovAlJ5SL+1HiIzNXOLObj0iCPAytDtsa7QVSn7qx/CspfnlnleGYLeCiESTHBwW1ERxI1MBc2veFsK1sg==",
+      "path": "zxing.net/0.16.4",
+      "hashPath": "zxing.net.0.16.4.nupkg.sha512"
+    },
+    "ZXing.Net.Bindings.CoreCompat.System.Drawing/0.16.5-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EfuA8WTsOzAt2JfNwW2NuC4pOZoAD8HWUgAHBHn+doQ5YGatAxapAOpoXx26fU9Cf2StOZzr+qIikXh1kqzSog==",
+      "path": "zxing.net.bindings.corecompat.system.drawing/0.16.5-beta",
+      "hashPath": "zxing.net.bindings.corecompat.system.drawing.0.16.5-beta.nupkg.sha512"
+    }
+  }
+}

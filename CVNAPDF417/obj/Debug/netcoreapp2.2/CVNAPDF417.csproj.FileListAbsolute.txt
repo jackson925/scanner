@@ -1,0 +1,11 @@
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\bin\Debug\netcoreapp2.2\CVNAPDF417.deps.json
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\bin\Debug\netcoreapp2.2\CVNAPDF417.runtimeconfig.json
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\bin\Debug\netcoreapp2.2\CVNAPDF417.runtimeconfig.dev.json
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\bin\Debug\netcoreapp2.2\CVNAPDF417.dll
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\bin\Debug\netcoreapp2.2\CVNAPDF417.pdb
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\obj\Debug\netcoreapp2.2\CVNAPDF417.csprojAssemblyReference.cache
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\obj\Debug\netcoreapp2.2\CVNAPDF417.csproj.CoreCompileInputs.cache
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\obj\Debug\netcoreapp2.2\CVNAPDF417.AssemblyInfoInputs.cache
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\obj\Debug\netcoreapp2.2\CVNAPDF417.AssemblyInfo.cs
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\obj\Debug\netcoreapp2.2\CVNAPDF417.dll
+C:\Users\jjackson\source\repos\CVNAPDF417\CVNAPDF417\obj\Debug\netcoreapp2.2\CVNAPDF417.pdb
